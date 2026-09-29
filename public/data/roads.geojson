@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R001", "name": "Adyar River Channel", "type": "river" },
+      "geometry": { "type": "LineString", "coordinates": [[80.14, 12.98], [80.17, 13.00], [80.20, 13.01], [80.23, 13.015], [80.25, 13.01], [80.265, 13.005]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R002", "name": "Cooum River Channel", "type": "river" },
+      "geometry": { "type": "LineString", "coordinates": [[80.16, 13.07], [80.19, 13.075], [80.21, 13.072], [80.24, 13.073], [80.26, 13.069], [80.265, 13.068]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R003", "name": "Poonamallee High Road", "type": "arterial" },
+      "geometry": { "type": "LineString", "coordinates": [[80.10, 13.05], [80.15, 13.06], [80.20, 13.07], [80.24, 13.078], [80.265, 13.08]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R004", "name": "Anna Salai (Mount Road)", "type": "arterial" },
+      "geometry": { "type": "LineString", "coordinates": [[80.21, 13.00], [80.23, 13.03], [80.25, 13.05], [80.265, 13.065]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R005", "name": "Inner Ring Road (100 Feet Rd)", "type": "ring" },
+      "geometry": { "type": "LineString", "coordinates": [[80.20, 12.99], [80.20, 13.03], [80.20, 13.06], [80.21, 13.09]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R006", "name": "GST Road (Guindy Corridor)", "type": "arterial" },
+      "geometry": { "type": "LineString", "coordinates": [[80.12, 12.92], [80.16, 12.96], [80.20, 13.005], [80.22, 13.015]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R007", "name": "Old Mahabalipuram Rd (OMR)", "type": "corridor" },
+      "geometry": { "type": "LineString", "coordinates": [[80.25, 12.90], [80.25, 12.95], [80.25, 12.99], [80.25, 13.005]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R008", "name": "Arcot Road (Porur - Kodambakkam)", "type": "arterial" },
+      "geometry": { "type": "LineString", "coordinates": [[80.16, 13.03], [80.19, 13.04], [80.22, 13.05]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R009", "name": "Velachery Main Road", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.21, 12.97], [80.22, 12.99], [80.23, 13.01]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R010", "name": "Koyambedu Street Network", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.19, 13.07], [80.21, 13.075], [80.23, 13.072]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R011", "name": "KK Nagar - Ashok Nagar Ave", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.20, 13.03], [80.215, 13.035], [80.225, 13.04]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R012", "name": "T. Nagar Commercial Street", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.23, 13.04], [80.24, 13.042], [80.245, 13.045]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R013", "name": "Mylapore Coastal Street", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.26, 13.03], [80.262, 13.04], [80.265, 13.05]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R014", "name": "Maduravoyal Bypass Rd", "type": "arterial" },
+      "geometry": { "type": "LineString", "coordinates": [[80.16, 13.05], [80.175, 13.055], [80.185, 13.06]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R015", "name": "Ambattur Industrial Ave", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.15, 13.09], [80.17, 13.095], [80.19, 13.09]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R016", "name": "Anna Nagar 2nd Main Rd", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.19, 13.085], [80.21, 13.088], [80.22, 13.085]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R017", "name": "Saidapet Canal Street", "type": "canal" },
+      "geometry": { "type": "LineString", "coordinates": [[80.22, 13.02], [80.235, 13.022], [80.25, 13.025]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R018", "name": "Guindy Industrial Estate Rd", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.20, 13.01], [80.215, 13.012], [80.225, 13.015]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R019", "name": "Ekkattuthangal Street", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.195, 13.025], [80.205, 13.028], [80.215, 13.03]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R020", "name": "Virugambakkam Canal Rd", "type": "canal" },
+      "geometry": { "type": "LineString", "coordinates": [[80.18, 13.05], [80.195, 13.052], [80.205, 13.055]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R021", "name": "Porur Lake Overflow Stream", "type": "stream" },
+      "geometry": { "type": "LineString", "coordinates": [[80.15, 13.03], [80.17, 13.032], [80.185, 13.035]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R022", "name": "Ramapuram Main Rd", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.17, 13.02], [80.185, 13.022], [80.195, 13.025]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R023", "name": "Nungambakkam High Rd", "type": "arterial" },
+      "geometry": { "type": "LineString", "coordinates": [[80.23, 13.055], [80.245, 13.058], [80.255, 13.06]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R024", "name": "Egmore Station Rd", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.25, 13.07], [80.26, 13.072], [80.265, 13.075]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R025", "name": "Chetpet Lake Channel", "type": "stream" },
+      "geometry": { "type": "LineString", "coordinates": [[80.235, 13.068], [80.245, 13.07], [80.255, 13.072]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R026", "name": "Royapettah High Rd", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.255, 13.045], [80.262, 13.05], [80.265, 13.055]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R027", "name": "Perambur High Road", "type": "arterial" },
+      "geometry": { "type": "LineString", "coordinates": [[80.22, 13.11], [80.24, 13.105], [80.26, 13.095]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R028", "name": "New Avadi Road", "type": "arterial" },
+      "geometry": { "type": "LineString", "coordinates": [[80.18, 13.09], [80.21, 13.085], [80.23, 13.08]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R029", "name": "Shenoy Nagar Link Rd", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.22, 13.078], [80.235, 13.082], [80.25, 13.08]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R030", "name": "Ayanavaram Main Street", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.22, 13.095], [80.235, 13.098], [80.25, 13.092]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R031", "name": "Vyasarpadi Waterway Link", "type": "canal" },
+      "geometry": { "type": "LineString", "coordinates": [[80.24, 13.115], [80.255, 13.11], [80.265, 13.102]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R032", "name": "Otteri Nullah Channel", "type": "river" },
+      "geometry": { "type": "LineString", "coordinates": [[80.20, 13.09], [80.23, 13.092], [80.26, 13.088]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R033", "name": "Purasawalkam High Rd", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.245, 13.085], [80.255, 13.088], [80.265, 13.086]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R034", "name": "Kilpauk Garden Rd", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.225, 13.08], [80.24, 13.082], [80.25, 13.078]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R035", "name": "Thirumangalam Ave", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.19, 13.08], [80.205, 13.082], [80.215, 13.078]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R036", "name": "Mogappair East Rd", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.175, 13.08], [80.19, 13.078], [80.20, 13.075]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R037", "name": "Nolambur Feeder Rd", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.16, 13.07], [80.175, 13.068], [80.185, 13.065]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R038", "name": "Alapakkam Main Rd", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.165, 13.045], [80.18, 13.042], [80.19, 13.04]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R039", "name": "Karambakkam Street", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.155, 13.035], [80.17, 13.038], [80.18, 13.036]] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "road_id": "R040", "name": "Valasaravakkam Link Rd", "type": "local" },
+      "geometry": { "type": "LineString", "coordinates": [[80.175, 13.042], [80.19, 13.045], [80.20, 13.043]] }
+    }
+  ]
+}

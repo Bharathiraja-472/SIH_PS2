@@ -1,0 +1,7 @@
+road_id,forecast_time,water_depth_cm,risk_level
+R001,T+30min,3,safe
+R002,T+60min,8,watch
+R003,T+90min,16,flooded
+R004,T+120min,28,flooded
+R005,T+150min,42,severe
+R006,T+180min,55,critical

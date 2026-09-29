@@ -1,0 +1,419 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R001",
+        "road_name": "Prototype Road 001",
+        "road_type": "local",
+        "width_m": 7,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.15,
+            12.95
+          ],
+          [
+            80.15,
+            13.15
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R002",
+        "road_name": "Prototype Road 002",
+        "road_type": "local",
+        "width_m": 7,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.17500000000001,
+            12.95
+          ],
+          [
+            80.17500000000001,
+            13.15
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R003",
+        "road_name": "Prototype Road 003",
+        "road_type": "arterial",
+        "width_m": 12,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.2,
+            12.95
+          ],
+          [
+            80.2,
+            13.15
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R004",
+        "road_name": "Prototype Road 004",
+        "road_type": "local",
+        "width_m": 7,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.225,
+            12.95
+          ],
+          [
+            80.225,
+            13.15
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R005",
+        "road_name": "Prototype Road 005",
+        "road_type": "local",
+        "width_m": 7,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.25,
+            12.95
+          ],
+          [
+            80.25,
+            13.15
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R006",
+        "road_name": "Prototype Road 006",
+        "road_type": "arterial",
+        "width_m": 12,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.275,
+            12.95
+          ],
+          [
+            80.275,
+            13.15
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R007",
+        "road_name": "Prototype Road 007",
+        "road_type": "local",
+        "width_m": 7,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.3,
+            12.95
+          ],
+          [
+            80.3,
+            13.15
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R008",
+        "road_name": "Prototype Road 008",
+        "road_type": "arterial",
+        "width_m": 12,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.32499999999999,
+            12.95
+          ],
+          [
+            80.32499999999999,
+            13.15
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R009",
+        "road_name": "Prototype Road 009",
+        "road_type": "local",
+        "width_m": 7,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.35,
+            12.95
+          ],
+          [
+            80.35,
+            13.15
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R010",
+        "road_name": "Prototype Road 010",
+        "road_type": "local",
+        "width_m": 7,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.15,
+            12.95
+          ],
+          [
+            80.35,
+            12.95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R011",
+        "road_name": "Prototype Road 011",
+        "road_type": "local",
+        "width_m": 7,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.15,
+            12.975
+          ],
+          [
+            80.35,
+            12.975
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R012",
+        "road_name": "Prototype Road 012",
+        "road_type": "arterial",
+        "width_m": 12,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.15,
+            13.0
+          ],
+          [
+            80.35,
+            13.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R013",
+        "road_name": "Prototype Road 013",
+        "road_type": "local",
+        "width_m": 7,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.15,
+            13.025
+          ],
+          [
+            80.35,
+            13.025
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R014",
+        "road_name": "Prototype Road 014",
+        "road_type": "local",
+        "width_m": 7,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.15,
+            13.05
+          ],
+          [
+            80.35,
+            13.05
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R015",
+        "road_name": "Prototype Road 015",
+        "road_type": "arterial",
+        "width_m": 12,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.15,
+            13.075
+          ],
+          [
+            80.35,
+            13.075
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R016",
+        "road_name": "Prototype Road 016",
+        "road_type": "local",
+        "width_m": 7,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.15,
+            13.1
+          ],
+          [
+            80.35,
+            13.1
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R017",
+        "road_name": "Prototype Road 017",
+        "road_type": "arterial",
+        "width_m": 12,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.15,
+            13.125
+          ],
+          [
+            80.35,
+            13.125
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "road_id": "R018",
+        "road_name": "Prototype Road 018",
+        "road_type": "local",
+        "width_m": 7,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            80.15,
+            13.15
+          ],
+          [
+            80.35,
+            13.15
+          ]
+        ]
+      }
+    }
+  ]
+}

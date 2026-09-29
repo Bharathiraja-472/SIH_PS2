@@ -1,0 +1,1720 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B001",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.162,
+              12.962
+            ],
+            [
+              80.176,
+              12.962
+            ],
+            [
+              80.176,
+              12.974
+            ],
+            [
+              80.162,
+              12.974
+            ],
+            [
+              80.162,
+              12.962
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B002",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.188,
+              12.962
+            ],
+            [
+              80.20400000000001,
+              12.962
+            ],
+            [
+              80.20400000000001,
+              12.975999999999999
+            ],
+            [
+              80.188,
+              12.975999999999999
+            ],
+            [
+              80.188,
+              12.962
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B003",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.21400000000001,
+              12.962
+            ],
+            [
+              80.23200000000001,
+              12.962
+            ],
+            [
+              80.23200000000001,
+              12.978
+            ],
+            [
+              80.21400000000001,
+              12.978
+            ],
+            [
+              80.21400000000001,
+              12.962
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B004",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.24000000000001,
+              12.962
+            ],
+            [
+              80.254,
+              12.962
+            ],
+            [
+              80.254,
+              12.974
+            ],
+            [
+              80.24000000000001,
+              12.974
+            ],
+            [
+              80.24000000000001,
+              12.962
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B005",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.266,
+              12.962
+            ],
+            [
+              80.28200000000001,
+              12.962
+            ],
+            [
+              80.28200000000001,
+              12.975999999999999
+            ],
+            [
+              80.266,
+              12.975999999999999
+            ],
+            [
+              80.266,
+              12.962
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B006",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.292,
+              12.962
+            ],
+            [
+              80.31,
+              12.962
+            ],
+            [
+              80.31,
+              12.978
+            ],
+            [
+              80.292,
+              12.978
+            ],
+            [
+              80.292,
+              12.962
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B007",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.31800000000001,
+              12.962
+            ],
+            [
+              80.33200000000001,
+              12.962
+            ],
+            [
+              80.33200000000001,
+              12.974
+            ],
+            [
+              80.31800000000001,
+              12.974
+            ],
+            [
+              80.31800000000001,
+              12.962
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B008",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.162,
+              12.988
+            ],
+            [
+              80.17800000000001,
+              12.988
+            ],
+            [
+              80.17800000000001,
+              13.004
+            ],
+            [
+              80.162,
+              13.004
+            ],
+            [
+              80.162,
+              12.988
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B009",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.188,
+              12.988
+            ],
+            [
+              80.206,
+              12.988
+            ],
+            [
+              80.206,
+              13.0
+            ],
+            [
+              80.188,
+              13.0
+            ],
+            [
+              80.188,
+              12.988
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B010",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.21400000000001,
+              12.988
+            ],
+            [
+              80.22800000000001,
+              12.988
+            ],
+            [
+              80.22800000000001,
+              13.001999999999999
+            ],
+            [
+              80.21400000000001,
+              13.001999999999999
+            ],
+            [
+              80.21400000000001,
+              12.988
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B011",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.24000000000001,
+              12.988
+            ],
+            [
+              80.25600000000001,
+              12.988
+            ],
+            [
+              80.25600000000001,
+              13.004
+            ],
+            [
+              80.24000000000001,
+              13.004
+            ],
+            [
+              80.24000000000001,
+              12.988
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B012",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.266,
+              12.988
+            ],
+            [
+              80.284,
+              12.988
+            ],
+            [
+              80.284,
+              13.0
+            ],
+            [
+              80.266,
+              13.0
+            ],
+            [
+              80.266,
+              12.988
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B013",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.292,
+              12.988
+            ],
+            [
+              80.306,
+              12.988
+            ],
+            [
+              80.306,
+              13.001999999999999
+            ],
+            [
+              80.292,
+              13.001999999999999
+            ],
+            [
+              80.292,
+              12.988
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B014",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.31800000000001,
+              12.988
+            ],
+            [
+              80.33400000000002,
+              12.988
+            ],
+            [
+              80.33400000000002,
+              13.004
+            ],
+            [
+              80.31800000000001,
+              13.004
+            ],
+            [
+              80.31800000000001,
+              12.988
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B015",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.162,
+              13.014
+            ],
+            [
+              80.18,
+              13.014
+            ],
+            [
+              80.18,
+              13.027999999999999
+            ],
+            [
+              80.162,
+              13.027999999999999
+            ],
+            [
+              80.162,
+              13.014
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B016",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.188,
+              13.014
+            ],
+            [
+              80.202,
+              13.014
+            ],
+            [
+              80.202,
+              13.03
+            ],
+            [
+              80.188,
+              13.03
+            ],
+            [
+              80.188,
+              13.014
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B017",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.21400000000001,
+              13.014
+            ],
+            [
+              80.23000000000002,
+              13.014
+            ],
+            [
+              80.23000000000002,
+              13.026
+            ],
+            [
+              80.21400000000001,
+              13.026
+            ],
+            [
+              80.21400000000001,
+              13.014
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B018",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.24000000000001,
+              13.014
+            ],
+            [
+              80.25800000000001,
+              13.014
+            ],
+            [
+              80.25800000000001,
+              13.027999999999999
+            ],
+            [
+              80.24000000000001,
+              13.027999999999999
+            ],
+            [
+              80.24000000000001,
+              13.014
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B019",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.266,
+              13.014
+            ],
+            [
+              80.28,
+              13.014
+            ],
+            [
+              80.28,
+              13.03
+            ],
+            [
+              80.266,
+              13.03
+            ],
+            [
+              80.266,
+              13.014
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B020",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.292,
+              13.014
+            ],
+            [
+              80.308,
+              13.014
+            ],
+            [
+              80.308,
+              13.026
+            ],
+            [
+              80.292,
+              13.026
+            ],
+            [
+              80.292,
+              13.014
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B021",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.31800000000001,
+              13.014
+            ],
+            [
+              80.33600000000001,
+              13.014
+            ],
+            [
+              80.33600000000001,
+              13.027999999999999
+            ],
+            [
+              80.31800000000001,
+              13.027999999999999
+            ],
+            [
+              80.31800000000001,
+              13.014
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B022",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.162,
+              13.04
+            ],
+            [
+              80.176,
+              13.04
+            ],
+            [
+              80.176,
+              13.052
+            ],
+            [
+              80.162,
+              13.052
+            ],
+            [
+              80.162,
+              13.04
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B023",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.188,
+              13.04
+            ],
+            [
+              80.20400000000001,
+              13.04
+            ],
+            [
+              80.20400000000001,
+              13.053999999999998
+            ],
+            [
+              80.188,
+              13.053999999999998
+            ],
+            [
+              80.188,
+              13.04
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B024",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.21400000000001,
+              13.04
+            ],
+            [
+              80.23200000000001,
+              13.04
+            ],
+            [
+              80.23200000000001,
+              13.056
+            ],
+            [
+              80.21400000000001,
+              13.056
+            ],
+            [
+              80.21400000000001,
+              13.04
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B025",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.24000000000001,
+              13.04
+            ],
+            [
+              80.254,
+              13.04
+            ],
+            [
+              80.254,
+              13.052
+            ],
+            [
+              80.24000000000001,
+              13.052
+            ],
+            [
+              80.24000000000001,
+              13.04
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B026",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.266,
+              13.04
+            ],
+            [
+              80.28200000000001,
+              13.04
+            ],
+            [
+              80.28200000000001,
+              13.053999999999998
+            ],
+            [
+              80.266,
+              13.053999999999998
+            ],
+            [
+              80.266,
+              13.04
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B027",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.292,
+              13.04
+            ],
+            [
+              80.31,
+              13.04
+            ],
+            [
+              80.31,
+              13.056
+            ],
+            [
+              80.292,
+              13.056
+            ],
+            [
+              80.292,
+              13.04
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B028",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.31800000000001,
+              13.04
+            ],
+            [
+              80.33200000000001,
+              13.04
+            ],
+            [
+              80.33200000000001,
+              13.052
+            ],
+            [
+              80.31800000000001,
+              13.052
+            ],
+            [
+              80.31800000000001,
+              13.04
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B029",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.162,
+              13.065999999999999
+            ],
+            [
+              80.17800000000001,
+              13.065999999999999
+            ],
+            [
+              80.17800000000001,
+              13.081999999999999
+            ],
+            [
+              80.162,
+              13.081999999999999
+            ],
+            [
+              80.162,
+              13.065999999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B030",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.188,
+              13.065999999999999
+            ],
+            [
+              80.206,
+              13.065999999999999
+            ],
+            [
+              80.206,
+              13.078
+            ],
+            [
+              80.188,
+              13.078
+            ],
+            [
+              80.188,
+              13.065999999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B031",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.21400000000001,
+              13.065999999999999
+            ],
+            [
+              80.22800000000001,
+              13.065999999999999
+            ],
+            [
+              80.22800000000001,
+              13.079999999999998
+            ],
+            [
+              80.21400000000001,
+              13.079999999999998
+            ],
+            [
+              80.21400000000001,
+              13.065999999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B032",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.24000000000001,
+              13.065999999999999
+            ],
+            [
+              80.25600000000001,
+              13.065999999999999
+            ],
+            [
+              80.25600000000001,
+              13.081999999999999
+            ],
+            [
+              80.24000000000001,
+              13.081999999999999
+            ],
+            [
+              80.24000000000001,
+              13.065999999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B033",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.266,
+              13.065999999999999
+            ],
+            [
+              80.284,
+              13.065999999999999
+            ],
+            [
+              80.284,
+              13.078
+            ],
+            [
+              80.266,
+              13.078
+            ],
+            [
+              80.266,
+              13.065999999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B034",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.292,
+              13.065999999999999
+            ],
+            [
+              80.306,
+              13.065999999999999
+            ],
+            [
+              80.306,
+              13.079999999999998
+            ],
+            [
+              80.292,
+              13.079999999999998
+            ],
+            [
+              80.292,
+              13.065999999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B035",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.31800000000001,
+              13.065999999999999
+            ],
+            [
+              80.33400000000002,
+              13.065999999999999
+            ],
+            [
+              80.33400000000002,
+              13.081999999999999
+            ],
+            [
+              80.31800000000001,
+              13.081999999999999
+            ],
+            [
+              80.31800000000001,
+              13.065999999999999
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B036",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.162,
+              13.092
+            ],
+            [
+              80.18,
+              13.092
+            ],
+            [
+              80.18,
+              13.106
+            ],
+            [
+              80.162,
+              13.106
+            ],
+            [
+              80.162,
+              13.092
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B037",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.188,
+              13.092
+            ],
+            [
+              80.202,
+              13.092
+            ],
+            [
+              80.202,
+              13.108
+            ],
+            [
+              80.188,
+              13.108
+            ],
+            [
+              80.188,
+              13.092
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B038",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.21400000000001,
+              13.092
+            ],
+            [
+              80.23000000000002,
+              13.092
+            ],
+            [
+              80.23000000000002,
+              13.104000000000001
+            ],
+            [
+              80.21400000000001,
+              13.104000000000001
+            ],
+            [
+              80.21400000000001,
+              13.092
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B039",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.24000000000001,
+              13.092
+            ],
+            [
+              80.25800000000001,
+              13.092
+            ],
+            [
+              80.25800000000001,
+              13.106
+            ],
+            [
+              80.24000000000001,
+              13.106
+            ],
+            [
+              80.24000000000001,
+              13.092
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B040",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.266,
+              13.092
+            ],
+            [
+              80.28,
+              13.092
+            ],
+            [
+              80.28,
+              13.108
+            ],
+            [
+              80.266,
+              13.108
+            ],
+            [
+              80.266,
+              13.092
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B041",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.292,
+              13.092
+            ],
+            [
+              80.308,
+              13.092
+            ],
+            [
+              80.308,
+              13.104000000000001
+            ],
+            [
+              80.292,
+              13.104000000000001
+            ],
+            [
+              80.292,
+              13.092
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B042",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.31800000000001,
+              13.092
+            ],
+            [
+              80.33600000000001,
+              13.092
+            ],
+            [
+              80.33600000000001,
+              13.106
+            ],
+            [
+              80.31800000000001,
+              13.106
+            ],
+            [
+              80.31800000000001,
+              13.092
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B043",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.162,
+              13.118
+            ],
+            [
+              80.176,
+              13.118
+            ],
+            [
+              80.176,
+              13.13
+            ],
+            [
+              80.162,
+              13.13
+            ],
+            [
+              80.162,
+              13.118
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B044",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.188,
+              13.118
+            ],
+            [
+              80.20400000000001,
+              13.118
+            ],
+            [
+              80.20400000000001,
+              13.132
+            ],
+            [
+              80.188,
+              13.132
+            ],
+            [
+              80.188,
+              13.118
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B045",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.21400000000001,
+              13.118
+            ],
+            [
+              80.23200000000001,
+              13.118
+            ],
+            [
+              80.23200000000001,
+              13.134
+            ],
+            [
+              80.21400000000001,
+              13.134
+            ],
+            [
+              80.21400000000001,
+              13.118
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B046",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.24000000000001,
+              13.118
+            ],
+            [
+              80.254,
+              13.118
+            ],
+            [
+              80.254,
+              13.13
+            ],
+            [
+              80.24000000000001,
+              13.13
+            ],
+            [
+              80.24000000000001,
+              13.118
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B047",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.266,
+              13.118
+            ],
+            [
+              80.28200000000001,
+              13.118
+            ],
+            [
+              80.28200000000001,
+              13.132
+            ],
+            [
+              80.266,
+              13.132
+            ],
+            [
+              80.266,
+              13.118
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B048",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.292,
+              13.118
+            ],
+            [
+              80.31,
+              13.118
+            ],
+            [
+              80.31,
+              13.134
+            ],
+            [
+              80.292,
+              13.134
+            ],
+            [
+              80.292,
+              13.118
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "building_id": "B049",
+        "impervious": 1,
+        "data_type": "synthetic"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.31800000000001,
+              13.118
+            ],
+            [
+              80.33200000000001,
+              13.118
+            ],
+            [
+              80.33200000000001,
+              13.13
+            ],
+            [
+              80.31800000000001,
+              13.13
+            ],
+            [
+              80.31800000000001,
+              13.118
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

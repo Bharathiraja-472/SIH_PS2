@@ -1,0 +1,8 @@
+forecast_time,rainfall_mm_per_hr,data_type
+T+0,12,synthetic
+T+30,24,synthetic
+T+60,38,synthetic
+T+90,55,synthetic
+T+120,68,synthetic
+T+150,74,synthetic
+T+180,60,synthetic
